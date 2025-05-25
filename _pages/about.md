@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Professor of Statistics  
+**Professor of Statistics**  
 [Department of Statistics](https://statistics.columbian.gwu.edu/)  
 [The George Washington University](https://www.gwu.edu/)  
 801 22nd St NW, Rome Hall 760A  
