@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Huixia Judy Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Professor"
+  location         : "Department of Statistics"
+  employer         : "The George Washington University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "judywang@gwu.edu" 
 
   # Academic websites
   academia         : # URL
