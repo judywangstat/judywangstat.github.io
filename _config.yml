@@ -25,10 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Huixia Judy Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Professor"
-  location         : "Department of Statistics"
-  employer         : "The George Washington University"
-  email            : "judywang@gwu.edu" 
+  bio              : #"Professor"
+  location         : #"Department of Statistics"
+  employer         : #"The George Washington University"
+  email            : #"judywang@gwu.edu" 
 
   # Academic websites
   academia         : # URL
