@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Huixia Judy Wang
-====
+
 Professor of Statistics
 
 [Department of Statistics](https://statistics.columbian.gwu.edu/)
