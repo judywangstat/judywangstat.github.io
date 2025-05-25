@@ -32,8 +32,3 @@ Work experience
 + 08/2006-07/2012, Assistant Professor, [Department of Statistics, NCSU](http://www.stat.ncsu.edu), Raleigh, NC 
 
 
-Publications
-======
-
-Find my articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=4cvQ4bAAAAAJ).
-
