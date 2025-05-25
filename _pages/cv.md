@@ -35,6 +35,6 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <ul>
+    Find my articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=4cvQ4bAAAAAJ).
+  </ul>
