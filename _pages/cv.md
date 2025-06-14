@@ -10,7 +10,7 @@ redirect_from:
 
 Research Interest
 ======
-Bioinformatics and biostatistics; change point; extreme value theory and applications; high dimensional inference; longitudinal data analysis; measurement error; missing data analysis; quantile regression; semiparametric regression; spatial analysis; statistical learning; subgroup analysis; survival analysis
+Bioinformatics and biostatistics; change point; extreme value theory and applications; inference; longitudinal data analysis; measurement error; missing data analysis; quantile regression; semiparametric regression; spatial analysis; statistical learning; subgroup analysis; survival analysis; uncertainty quantificaton
 
 Education
 ======
