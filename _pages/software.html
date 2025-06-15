@@ -7,15 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-<ul>
 {% for item in site.software %}
-  <li>
-    <strong>{{ item.title }}</strong> – {{ item.description }}
-    <br>
-    <a href="{{ item.link }}" target="_blank">[Code / Download]</a>
-  </li>
+  <div class="archive-item">
+    <h2>{{ item.title }}</h2>
+    <p>{{ item.description }}</p>
+    <a href="{{ item.link }}" target="_blank">[View Code]</a>
+  </div>
 {% endfor %}
-</ul>
 
 
 
