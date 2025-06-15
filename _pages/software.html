@@ -1,9 +1,21 @@
 ---
 layout: archive
-title: "Software"
+title: "Software and Code"
 permalink: /software/
 author_profile: true
 ---
+
+{% include base_path %}
+
+<ul>
+{% for item in site.software %}
+  <li>
+    <strong>{{ item.title }}</strong> – {{ item.description }}
+    <br>
+    <a href="{{ item.link }}" target="_blank">[Code / Download]</a>
+  </li>
+{% endfor %}
+</ul>
 
 
 
