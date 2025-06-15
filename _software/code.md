@@ -1,5 +1,7 @@
 ---
 title: "Software and Code"
+description: >
+  Software, code and data accompanying recent papers
 layout: default
 ---
 
